@@ -28,7 +28,3 @@ This is a personal portfolio website to showcase my skills, projects, and profes
 <img width="947" alt="image" src="https://github.com/user-attachments/assets/bda5118b-fd0d-442d-9ad6-0a389570b291" />
 
 
----
-
-## 📂 Folder Structure
-
